@@ -89,8 +89,14 @@ Healthcare Dataset containing patient records, hospital information, billing det
 ---
 
 ## 📷 Sample Visualizations
-![hospital_billing](hospital_billing.png)
-![billing_by_condition](billing_by_condition.png)
+### Admission Type Distribution 
+![admission_type_distribution](admission_type_distribution.png)
+
+### Test Results
+![test_results](test_results.png)
+
+### Patient Distribution
+![patient_distribution](patient_distribution.png)
 ---
 
 ## ⭐ Future Improvements
