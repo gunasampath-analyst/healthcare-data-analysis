@@ -90,6 +90,7 @@ Healthcare Dataset containing patient records, hospital information, billing det
 
 ## 📷 Sample Visualizations
 ![hospital_billing](hospital_billing.png)
+![billing_by_condition](billing_by_condition.png)
 ---
 
 ## ⭐ Future Improvements
