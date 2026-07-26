@@ -89,9 +89,7 @@ Healthcare Dataset containing patient records, hospital information, billing det
 ---
 
 ## 📷 Sample Visualizations
-
-*(Add screenshots of your best charts here.)*
-
+![imagr alt]("C:\Users\gunas\Desktop\teks.class\python\admission_type_distribution.png")
 ---
 
 ## ⭐ Future Improvements
