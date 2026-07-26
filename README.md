@@ -88,16 +88,46 @@ Healthcare Dataset containing patient records, hospital information, billing det
 
 ---
 
-## 📷 Sample Visualizations
-### Admission Type Distribution 
-![admission_type_distribution](admission_type_distribution.png)
+## 📷 Project Visualizations
 
-### Test Results
-![test_results](test_results.png)
+### 💰 Total Billing by Medical Condition
 
-### Patient Distribution
-![patient_distribution](patient_distribution.png)
----
+![Billing by Medical Condition](./images/billing_by_condition.png)
+
+
+### 🏥 Top Hospitals by Total Billing
+
+![Hospital Billing Analysis](./images/hospital_billing.png)
+
+
+### 🏨 Patient Length of Stay Distribution
+
+![Length of Stay Distribution](./images/length_of_stay.png)
+
+
+### 🩺 Length of Stay by Medical Condition
+
+![Length of Stay by Medical Condition](./images/length_of_stay_my_medical_condition.png)
+
+
+### 📈 Monthly Billing Trend
+
+![Monthly Billing Trend](./images/monthly_billing.png)
+
+
+### 👥 Patient Distribution by Medical Condition
+
+![Patient Distribution](./images/patient_distribution.png)
+
+
+### 🧪 Test Results Distribution
+
+![Test Results Distribution](./images/test_results.png)
+
+
+### 🚑 Admission Type Distribution
+
+![Admission Type Distribution](./images/admission_type_distribution.png)
 
 ## ⭐ Future Improvements
 
