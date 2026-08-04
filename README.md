@@ -216,43 +216,43 @@ The project includes analysis on:
 
 ## 💰 Total Billing by Medical Condition
 
-![Billing by Medical Condition](images/billing_by_condition.png)
+![Billing by Medical Condition](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/billing_by_condition.png)
 
 ---
 
 ## 🏥 Top Hospitals by Total Billing
 
-![Hospital Billing](images/hospital_billing.png)
+![Hospital Billing](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/hospital_billing.png)
 
 ---
 
 ## 📈 Monthly Billing Trend
 
-![Monthly Billing](images/monthly_billing.png)
+![Monthly Billing](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/monthly_billing.png)
 
 ---
 
 ## 🏨 Distribution of Length of Stay
 
-![Length of Stay](images/length_of_stay.png)
+![Length of Stay](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/length_of_stay.png)
 
 ---
 
 ## 🩺 Length of Stay by Medical Condition
 
-![Length of Stay by Condition](images/length_of_stay_my_medical_condition.png)
+![Length of Stay by Condition](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/length_of_stay_my_medical_condition.png)
 
 ---
 
 ## 🚑 Admission Type Distribution
 
-![Admission Types](images/admission_type_distribution.png)
+![Admission Types](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/admission_type_distribution.png)
 
 ---
 
 ## 🧪 Test Result Distribution
 
-![Test Results](images/test_results.png)
+![Test Results](https://github.com/gunasampath-analyst/healthcare-data-analysis/blob/7d7856513bbc80c6e99441c71df402bf75ed8c53/test_results.png)
 
 ---
 
